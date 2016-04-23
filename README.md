@@ -35,7 +35,7 @@ Prepare this theme via `git clone`
 % sudo mkdir spiez
 % sudo chown USER:USER spiez
 % cd spiez
-% git clone https://github.com:grauwoelfchen/slim.theme-spiez .
+% git clone https://github.com/grauwoelfchen/slim.theme-spiez.git .
 ```
 
 
